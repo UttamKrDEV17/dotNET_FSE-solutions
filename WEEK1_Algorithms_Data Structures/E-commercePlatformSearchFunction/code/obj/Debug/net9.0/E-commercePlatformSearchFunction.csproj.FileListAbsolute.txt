@@ -1,0 +1,15 @@
+D:\dotNET_FSE\dotNET_FSE-solutions\WEEK1_Algorithms_Data Structures\E-commercePlatformSearchFunction\code\E-commercePlatformSearchFunction\bin\Debug\net9.0\E-commercePlatformSearchFunction.exe
+D:\dotNET_FSE\dotNET_FSE-solutions\WEEK1_Algorithms_Data Structures\E-commercePlatformSearchFunction\code\E-commercePlatformSearchFunction\bin\Debug\net9.0\E-commercePlatformSearchFunction.deps.json
+D:\dotNET_FSE\dotNET_FSE-solutions\WEEK1_Algorithms_Data Structures\E-commercePlatformSearchFunction\code\E-commercePlatformSearchFunction\bin\Debug\net9.0\E-commercePlatformSearchFunction.runtimeconfig.json
+D:\dotNET_FSE\dotNET_FSE-solutions\WEEK1_Algorithms_Data Structures\E-commercePlatformSearchFunction\code\E-commercePlatformSearchFunction\bin\Debug\net9.0\E-commercePlatformSearchFunction.dll
+D:\dotNET_FSE\dotNET_FSE-solutions\WEEK1_Algorithms_Data Structures\E-commercePlatformSearchFunction\code\E-commercePlatformSearchFunction\bin\Debug\net9.0\E-commercePlatformSearchFunction.pdb
+D:\dotNET_FSE\dotNET_FSE-solutions\WEEK1_Algorithms_Data Structures\E-commercePlatformSearchFunction\code\E-commercePlatformSearchFunction\obj\Debug\net9.0\E-commercePlatformSearchFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNET_FSE\dotNET_FSE-solutions\WEEK1_Algorithms_Data Structures\E-commercePlatformSearchFunction\code\E-commercePlatformSearchFunction\obj\Debug\net9.0\E-commercePlatformSearchFunction.AssemblyInfoInputs.cache
+D:\dotNET_FSE\dotNET_FSE-solutions\WEEK1_Algorithms_Data Structures\E-commercePlatformSearchFunction\code\E-commercePlatformSearchFunction\obj\Debug\net9.0\E-commercePlatformSearchFunction.AssemblyInfo.cs
+D:\dotNET_FSE\dotNET_FSE-solutions\WEEK1_Algorithms_Data Structures\E-commercePlatformSearchFunction\code\E-commercePlatformSearchFunction\obj\Debug\net9.0\E-commercePlatformSearchFunction.csproj.CoreCompileInputs.cache
+D:\dotNET_FSE\dotNET_FSE-solutions\WEEK1_Algorithms_Data Structures\E-commercePlatformSearchFunction\code\E-commercePlatformSearchFunction\obj\Debug\net9.0\E-commercePlatformSearchFunction.sourcelink.json
+D:\dotNET_FSE\dotNET_FSE-solutions\WEEK1_Algorithms_Data Structures\E-commercePlatformSearchFunction\code\E-commercePlatformSearchFunction\obj\Debug\net9.0\E-commercePlatformSearchFunction.dll
+D:\dotNET_FSE\dotNET_FSE-solutions\WEEK1_Algorithms_Data Structures\E-commercePlatformSearchFunction\code\E-commercePlatformSearchFunction\obj\Debug\net9.0\refint\E-commercePlatformSearchFunction.dll
+D:\dotNET_FSE\dotNET_FSE-solutions\WEEK1_Algorithms_Data Structures\E-commercePlatformSearchFunction\code\E-commercePlatformSearchFunction\obj\Debug\net9.0\E-commercePlatformSearchFunction.pdb
+D:\dotNET_FSE\dotNET_FSE-solutions\WEEK1_Algorithms_Data Structures\E-commercePlatformSearchFunction\code\E-commercePlatformSearchFunction\obj\Debug\net9.0\E-commercePlatformSearchFunction.genruntimeconfig.cache
+D:\dotNET_FSE\dotNET_FSE-solutions\WEEK1_Algorithms_Data Structures\E-commercePlatformSearchFunction\code\E-commercePlatformSearchFunction\obj\Debug\net9.0\ref\E-commercePlatformSearchFunction.dll
