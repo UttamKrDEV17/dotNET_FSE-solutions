@@ -1,0 +1,11 @@
+D:\firstapp\CustomerMailer\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.deps.json
+D:\firstapp\CustomerMailer\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.dll
+D:\firstapp\CustomerMailer\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.pdb
+D:\firstapp\CustomerMailer\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\firstapp\CustomerMailer\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfoInputs.cache
+D:\firstapp\CustomerMailer\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfo.cs
+D:\firstapp\CustomerMailer\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+D:\firstapp\CustomerMailer\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.dll
+D:\firstapp\CustomerMailer\CustomerCommLib\obj\Debug\net9.0\refint\CustomerCommLib.dll
+D:\firstapp\CustomerMailer\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.pdb
+D:\firstapp\CustomerMailer\CustomerCommLib\obj\Debug\net9.0\ref\CustomerCommLib.dll

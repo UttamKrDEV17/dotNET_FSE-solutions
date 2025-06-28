@@ -1,0 +1,11 @@
+D:\firstapp\CalculatorApp\CalcLibrary\bin\Debug\net9.0\CalcLibrary.deps.json
+D:\firstapp\CalculatorApp\CalcLibrary\bin\Debug\net9.0\CalcLibrary.dll
+D:\firstapp\CalculatorApp\CalcLibrary\bin\Debug\net9.0\CalcLibrary.pdb
+D:\firstapp\CalculatorApp\CalcLibrary\obj\Debug\net9.0\CalcLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\firstapp\CalculatorApp\CalcLibrary\obj\Debug\net9.0\CalcLibrary.AssemblyInfoInputs.cache
+D:\firstapp\CalculatorApp\CalcLibrary\obj\Debug\net9.0\CalcLibrary.AssemblyInfo.cs
+D:\firstapp\CalculatorApp\CalcLibrary\obj\Debug\net9.0\CalcLibrary.csproj.CoreCompileInputs.cache
+D:\firstapp\CalculatorApp\CalcLibrary\obj\Debug\net9.0\CalcLibrary.dll
+D:\firstapp\CalculatorApp\CalcLibrary\obj\Debug\net9.0\refint\CalcLibrary.dll
+D:\firstapp\CalculatorApp\CalcLibrary\obj\Debug\net9.0\CalcLibrary.pdb
+D:\firstapp\CalculatorApp\CalcLibrary\obj\Debug\net9.0\ref\CalcLibrary.dll
