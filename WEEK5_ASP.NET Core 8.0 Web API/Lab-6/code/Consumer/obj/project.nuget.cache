@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EBQz+MDqgwc=",
+  "success": true,
+  "projectFilePath": "D:\\dotNET_FSE\\dotNET_FSE-solutions\\WEEK5_ASP.NET Core 8.0 Web API\\Lab-6\\code\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIIT\\.nuget\\packages\\confluent.kafka\\2.11.0\\confluent.kafka.2.11.0.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\librdkafka.redist\\2.11.0\\librdkafka.redist.2.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
